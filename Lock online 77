@@ -139,6 +139,11 @@
       "device_id": "aa2c9103ff9bce50",
       "password": "Nazli1234",
       "expire_date": "2025-11-12"
+    },
+    {
+      "device_id": "6f5448201b52df31",
+      "password": "Bond98",
+      "expire_date": "2025-11-11"
     }
   ]
 }
