@@ -29,6 +29,11 @@
       "device_id": "offline-device",
       "password": "1234",
       "expire_date": "2026-01-01"
+    },
+    {
+      "device_id": "acdb6beffc0ff86a",
+      "password": "bangaumy123",
+      "expire_date": "2026-01-01"
     }
   ]
 }
