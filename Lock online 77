@@ -64,6 +64,11 @@
       "device_id": "3150aab5057f9f78",
       "password": "Vmk1603",
       "expire_date": "2025-10-21"
+    },
+    {
+      "device_id": "e7e2cb4a14f728d0",
+      "password": "291295",
+      "expire_date": "2025-10-16"
     }
   ]
 }
