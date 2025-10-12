@@ -54,6 +54,11 @@
       "device_id": "b399f278f110a8de",
       "password": "tealan18",
       "expire_date": "2025-11-03"
+    },
+    {
+      "device_id": "e1224642e42f9d6d",
+      "password": "awangrey",
+      "expire_date": "2025-10-28"
     }
   ]
 }
