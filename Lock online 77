@@ -164,6 +164,11 @@
       "device_id": "24bfa96eaa3397dd",
       "password": "Andrychin98.",
       "expire_date": "2025-10-18"
+    },
+    {
+      "device_id": "082e592ba60988ca",
+      "password": "123456",
+      "expire_date": "2025-10-25"
     }
   ]
 }
