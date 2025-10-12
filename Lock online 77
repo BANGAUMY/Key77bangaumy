@@ -79,6 +79,11 @@
       "device_id": "adff008e560998ad",
       "password": "halimatul",
       "expire_date": "2025-10-31"
+    },
+    {
+      "device_id": "318249d8c91c14ae",
+      "password": "Neethu2701",
+      "expire_date": "2025-10-24"
     }
   ]
 }
