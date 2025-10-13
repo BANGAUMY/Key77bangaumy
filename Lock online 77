@@ -324,6 +324,11 @@
       "device_id": "8b5a5cd13d206606",
       "password": "Merine3053@",
       "expire_date": "2025-11-03"
+    },
+    {
+      "device_id": "d5c63376b05d828b",
+      "password": "Qwert321",
+      "expire_date": "2025-11-05"
     }
   ]
 }
