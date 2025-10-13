@@ -314,6 +314,11 @@
       "device_id": "134c4c775c8fea3a",
       "password": "adhaaqill7",
       "expire_date": "2025-10-21"
+    },
+    {
+      "device_id": "60d38bd11913d3f1",
+      "password": "malau",
+      "expire_date": "2025-11-03"
     }
   ]
 }
