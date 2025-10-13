@@ -239,6 +239,11 @@
       "device_id": "bb6ebfabf81e3ef0",
       "password": "qil94",
       "expire_date": "2025-11-13"
+    },
+    {
+      "device_id": "cd071f94058b41f1",
+      "password": "sof46",
+      "expire_date": "2025-10-21"
     }
   ]
 }
