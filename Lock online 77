@@ -244,6 +244,11 @@
       "device_id": "cd071f94058b41f1",
       "password": "sof46",
       "expire_date": "2025-10-21"
+    },
+    {
+      "device_id": "34285c92b047698c",
+      "password": "5299",
+      "expire_date": "2025-10-29"
     }
   ]
 }
