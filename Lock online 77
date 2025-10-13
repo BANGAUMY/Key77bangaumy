@@ -204,6 +204,11 @@
       "device_id": "2bc4a63b5a3ce6af",
       "password": "Fadil",
       "expire_date": "2025-11-13"
+    },
+    {
+      "device_id": "3f59cf1aecf48ac1",
+      "password": "2484",
+      "expire_date": "2025-11-13"
     }
   ]
 }
