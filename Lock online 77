@@ -329,6 +329,11 @@
       "device_id": "d5c63376b05d828b",
       "password": "Qwert321",
       "expire_date": "2025-11-05"
+    },
+    {
+      "device_id": "1386f336d682d753",
+      "password": "013550",
+      "expire_date": "2026-11-05"
     }
   ]
 }
