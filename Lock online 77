@@ -269,6 +269,11 @@
       "device_id": "15444e1208d55678",
       "password": "Smokee88",
       "expire_date": "2025-11-18"
+    },
+    {
+      "device_id": "b080b9349a86e4fe",
+      "password": "3077",
+      "expire_date": "2025-11-13"
     }
   ]
 }
