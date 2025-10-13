@@ -274,6 +274,11 @@
       "device_id": "b080b9349a86e4fe",
       "password": "3077",
       "expire_date": "2025-11-13"
+    },
+    {
+      "device_id": "eafd249c29857208",
+      "password": "zairy",
+      "expire_date": "2025-11-13"
     }
   ]
 }
