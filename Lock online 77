@@ -229,6 +229,11 @@
       "device_id": "2e6c3e215114a9b8",
       "password": "8686",
       "expire_date": "2025-11-13"
+    },
+    {
+      "device_id": "95f572776e091dc0",
+      "password": "7577",
+      "expire_date": "2025-11-13"
     }
   ]
 }
