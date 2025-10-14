@@ -494,6 +494,11 @@
       "device_id": "667c47d790244c17",
       "password": "hunter",
       "expire_date": "2025-11-14"
+    },
+    {
+      "device_id": "0ab2a940270eb89a",
+      "password": "arman",
+      "expire_date": "2025-11-14"
     }
   ]
 }
