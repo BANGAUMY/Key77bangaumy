@@ -339,6 +339,11 @@
       "device_id": "b305d0062c300d28",
       "password": "123@Aboleh",
       "expire_date": "2025-10-27"
+    },
+    {
+      "device_id": "c3d659cec6f4fdd0",
+      "password": "Bewek90",
+      "expire_date": "2025-11-07"
     }
   ]
 }
