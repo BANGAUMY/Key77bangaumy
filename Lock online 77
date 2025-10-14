@@ -499,6 +499,11 @@
       "device_id": "0ab2a940270eb89a",
       "password": "arman",
       "expire_date": "2025-11-14"
+    },
+    {
+      "device_id": "d86c60f9b39ad643",
+      "password": "1993",
+      "expire_date": "2025-11-14"
     }
   ]
 }
