@@ -509,6 +509,11 @@
       "device_id": "d033852c8aaa222d",
       "password": "anas",
       "expire_date": "2025-11-14"
+    },
+    {
+      "device_id": "7fdcbae2bc1ddb61",
+      "password": "affiq",
+      "expire_date": "2025-11-14"
     }
   ]
 }
