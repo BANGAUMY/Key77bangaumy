@@ -394,6 +394,11 @@
       "device_id": "1ecbf87bb7ac7550",
       "password": "ikhwan3142",
       "expire_date": "2027-10-21"
+    },
+    {
+      "device_id": "1b833989300f34e5",
+      "password": "12234",
+      "expire_date": "2025-11-14"
     }
   ]
 }
