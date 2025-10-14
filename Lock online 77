@@ -404,6 +404,11 @@
       "device_id": "adb11e756ab37b40",
       "password": "12345678",
       "expire_date": "2027-11-14"
+    },
+    {
+      "device_id": "30886b13c15eb211",
+      "password": "Ausnafis20@",
+      "expire_date": "2025-10-25"
     }
   ]
 }
