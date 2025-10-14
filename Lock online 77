@@ -459,6 +459,11 @@
       "device_id": "8cdc80772d69e78c",
       "password": "mea123",
       "expire_date": "2025-11-14"
+    },
+    {
+      "device_id": "ab64e18deaabd910",
+      "password": "fit123",
+      "expire_date": "2027-11-14"
     }
   ]
 }
