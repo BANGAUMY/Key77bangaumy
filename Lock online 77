@@ -429,6 +429,11 @@
       "device_id": "f5d2eede79e4bf8a",
       "password": "shah93",
       "expire_date": "2025-11-14"
+    },
+    {
+      "device_id": "5a3f0f4e9b70374a",
+      "password": "1980",
+      "expire_date": "2025-11-14"
     }
   ]
 }
