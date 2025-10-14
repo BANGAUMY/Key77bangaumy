@@ -514,6 +514,11 @@
       "device_id": "7fdcbae2bc1ddb61",
       "password": "affiq",
       "expire_date": "2025-11-14"
+    },
+    {
+      "device_id": "e4e29efa2d2d9d46",
+      "password": "229",
+      "expire_date": "2027-11-14"
     }
   ]
 }
