@@ -379,6 +379,11 @@
       "device_id": "a1f85dfa88d05af1",
       "password": "1960",
       "expire_date": "2025-11-14"
+    },
+    {
+      "device_id": "a2afb41242360c29",
+      "password": "kara",
+      "expire_date": "2025-11-14"
     }
   ]
 }
