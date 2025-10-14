@@ -504,6 +504,11 @@
       "device_id": "d86c60f9b39ad643",
       "password": "1993",
       "expire_date": "2025-11-14"
+    },
+    {
+      "device_id": "d033852c8aaa222d",
+      "password": "anas",
+      "expire_date": "2025-11-14"
     }
   ]
 }
