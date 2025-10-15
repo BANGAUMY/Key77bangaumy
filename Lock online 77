@@ -539,6 +539,11 @@
       "device_id": "b71c7840be07b334",
       "password": "6333",
       "expire_date": "2025-10-26"
+    },
+    {
+      "device_id": "50962d93eb44bd08",
+      "password": "epul",
+      "expire_date": "2025-11-15"
     }
   ]
 }
