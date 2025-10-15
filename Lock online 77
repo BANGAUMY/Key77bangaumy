@@ -644,6 +644,11 @@
       "device_id": "d7e78ce6c055cdff",
       "password": "ri78",
       "expire_date": "2025-11-15"
+    },
+    {
+      "device_id": "d08480a81e4c3cc4",
+      "password": "6245",
+      "expire_date": "2025-11-15"
     }
   ]
 }
