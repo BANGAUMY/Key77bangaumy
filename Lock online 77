@@ -579,6 +579,11 @@
       "device_id": "9a0def0f4d469494",
       "password": "Aruzz4489",
       "expire_date": "2025-11-15"
+    },
+    {
+      "device_id": "a7b082baaf93152e",
+      "password": "6789",
+      "expire_date": "2025-11-15"
     }
   ]
 }
