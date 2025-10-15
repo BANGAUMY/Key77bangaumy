@@ -779,6 +779,11 @@
       "device_id": "1fe01e0b12f3b1f9",
       "password": "Rafiee@8080",
       "expire_date": "2025-10-22"
+    },
+    {
+      "device_id": "476cde10b8f99983",
+      "password": "qapit",
+      "expire_date": "2025-11-05"
     }
   ]
 }
