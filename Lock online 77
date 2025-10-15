@@ -659,6 +659,11 @@
       "device_id": "17f13e0740b7431b",
       "password": "Safiya/18",
       "expire_date": "2027-11-15"
+    },
+    {
+      "device_id": "72e2767aa8064e46",
+      "password": "maroon123",
+      "expire_date": "2025-11-15"
     }
   ]
 }
