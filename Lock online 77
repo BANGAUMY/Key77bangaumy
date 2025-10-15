@@ -734,6 +734,11 @@
       "device_id": "cdb4cbbf1aa6e34b",
       "password": "e34b",
       "expire_date": "2025-11-15"
+    },
+    {
+      "device_id": "15444e1208d55678",
+      "password": "graber",
+      "expire_date": "2025-11-15"
     }
   ]
 }
