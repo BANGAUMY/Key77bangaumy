@@ -694,6 +694,11 @@
       "device_id": "1cc7cba626336dda",
       "password": "1997",
       "expire_date": "2025-11-15"
+    },
+    {
+      "device_id": "82de6b3d536e4270",
+      "password": "kodru123",
+      "expire_date": "2025-11-01"
     }
   ]
 }
