@@ -809,6 +809,11 @@
       "device_id": "256619e0f3ea5f05",
       "password": "456777",
       "expire_date": "2025-11-15"
+    },
+    {
+      "device_id": "006d48fa07a7c70e",
+      "password": "jongbrazil",
+      "expire_date": "2025-11-15"
     }
   ]
 }
