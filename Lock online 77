@@ -774,6 +774,11 @@
       "device_id": "a2e5cb7c19c397ce",
       "password": "zack789",
       "expire_date": "2025-11-15"
+    },
+    {
+      "device_id": "1fe01e0b12f3b1f9",
+      "password": "Rafiee@8080",
+      "expire_date": "2025-10-22"
     }
   ]
 }
