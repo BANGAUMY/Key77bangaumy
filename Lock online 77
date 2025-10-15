@@ -619,6 +619,11 @@
       "device_id": "21d5b24bda1fbab8",
       "password": "0704",
       "expire_date": "2025-11-15"
+    },
+    {
+      "device_id": "da78c14b6b84161c",
+      "password": "ludin",
+      "expire_date": "2025-11-15"
     }
   ]
 }
