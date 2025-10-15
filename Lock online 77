@@ -554,6 +554,11 @@
       "device_id": "893c5e16a0408d9a",
       "password": "12345",
       "expire_date": "2025-11-15"
+    },
+    {
+      "device_id": "67c81cbcbfba3438",
+      "password": "aziz",
+      "expire_date": "2025-11-15"
     }
   ]
 }
