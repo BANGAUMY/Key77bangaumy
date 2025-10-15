@@ -529,6 +529,11 @@
       "device_id": "90550c6c0d4d549b",
       "password": "anusi",
       "expire_date": "2025-11-14"
+    },
+    {
+      "device_id": "ba6de89c4890121b",
+      "password": "babisialbabisial",
+      "expire_date": "2027-11-14"
     }
   ]
 }
