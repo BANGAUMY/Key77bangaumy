@@ -894,6 +894,11 @@
       "device_id": "acbb9c4e823218b2",
       "password": "574",
       "expire_date": "2025-11-16"
+    },
+    {
+      "device_id": "dcc95b52d63a523f",
+      "password": "din574",
+      "expire_date": "2025-11-16"
     }
   ]
 }
