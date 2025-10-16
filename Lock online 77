@@ -924,6 +924,11 @@
       "device_id": "886e4411b1f6be73",
       "password": "ss88",
       "expire_date": "2025-11-16"
+    },
+    {
+      "device_id": "d60fdde1123cd6a0",
+      "password": "ss888",
+      "expire_date": "2025-11-16"
     }
   ]
 }
