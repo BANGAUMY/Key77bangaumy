@@ -854,6 +854,11 @@
       "device_id": "3173598ca170ffad",
       "password": "ally123",
       "expire_date": "2025-11-15"
+    },
+    {
+      "device_id": "4a425cfd2ddb2dbf",
+      "password": "arif123",
+      "expire_date": "2025-11-16"
     }
   ]
 }
