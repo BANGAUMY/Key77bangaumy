@@ -939,6 +939,11 @@
       "device_id": "b6ee849f7fd30953",
       "password": "ucop2236",
       "expire_date": "2025-11-17"
+    },
+    {
+      "device_id": "5b55487a4c7eca6c",
+      "password": "0753",
+      "expire_date": "2025-11-17"
     }
   ]
 }
