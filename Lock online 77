@@ -869,6 +869,11 @@
       "device_id": "37b0861e433f756e",
       "password": "jaz123",
       "expire_date": "2025-11-16"
+    },
+    {
+      "device_id": "ad4bb21e5284ca56",
+      "password": "8990",
+      "expire_date": "2025-11-16"
     }
   ]
 }
